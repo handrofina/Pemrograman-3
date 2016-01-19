@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Isi Nilai Panjang dan Lebar lalu klik Hitung Luas !</string>
+    <string name="app_name">Persegi Panjang</string>
+</resources>
